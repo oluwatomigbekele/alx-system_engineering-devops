@@ -1,5 +1,83 @@
 Learning Objectives
 
+
+Name	Last commit message	Last commit date
+parent directory
+..
+.14-decimal_to_hexadecimal.swp
+(File)
+Shell, init files, variables and expansions
+4 years ago
+0-alias
+(File)
+Shell, init files, variables and expansions
+4 years ago
+1-hello_you
+(File)
+Shell, init files, variables and expansions
+4 years ago
+10-love_exponent_breath
+(File)
+Shell, init files, variables and expansions
+4 years ago
+100-rot13
+(File)
+Shell, init files, variables and expansions
+4 years ago
+101-odd
+(File)
+Shell, init files, variables and expansions
+4 years ago
+102-water_and_stir
+(File)
+Shell, init files, variables and expansions
+4 years ago
+11-binary_to_decimal
+(File)
+Shell, init files, variables and expansions
+4 years ago
+12-combinations
+(File)
+Shell, init files, variables and expansions
+4 years ago
+13-print_float
+(File)
+Shell, init files, variables and expansions
+4 years ago
+14-decimal_to_hexadecimal
+(File)
+Shell, init files, variables and expansions
+4 years ago
+2-path
+(File)
+Shell, init files, variables and expansions
+4 years ago
+3-paths
+(File)
+Shell, init files, variables and expansions
+4 years ago
+4-global_variables
+(File)
+Shell, init files, variables and expansions
+4 years ago
+5-local_variables
+(File)
+Shell, init files, variables and expansions
+4 years ago
+6-create_local_variable
+(File)
+Shell, init files, variables and expansions
+4 years ago
+7-create_global_variable
+(File)
+Shell, init files, variables and expansions
+4 years ago
+8-true_knowledge
+(File)
+Shell, init files, variables and expansions
+4 years ago
+9-divide_and_rule
+
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google: General
 
 What happens when you type $ ls -l *.txt
